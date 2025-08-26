@@ -1,0 +1,9 @@
+/spec/SAX-formal-spec.md
+/spec/pseudocode.md
+/examples/toy-01.md
+/examples/edge-cases.md
+
+git add spec/SAX-formal-spec.md
+git add spec/pseudocode.md
+git add examples/toy-01.md
+git add examples/edge-cases.md

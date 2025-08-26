@@ -1,66 +1,69 @@
-# SAX-Theory
-SAX Theory (LCM–GCD): A novel framework of relational computation in the unconscious mind.  Applies to psychology, decision-making, AI ethics, and paradox resolution.  Integrates expansion–compression cycles for cognitive modeling.
 # SAX Theory: Relational Computation of the Unconscious Mind
 
-## 🔹 Overview
-SAX Theory (LCM + GCD Cycle) is a novel theoretical framework developed by **Khaled Imran (2025)**.  
-It proposes that the **unconscious mind operates through a relational computation mechanism**, structured around a cycle of **expansion (LCM)** and **compression (GCD)**.  
-
-This model aims to explain how humans process hidden patterns, resolve paradoxes, and engage in decision-making beyond conscious awareness.
-
----
-
-## 🔹 Core Idea
-- **LCM Expansion:** The unconscious expands multiple relational inputs into possible harmonized outcomes.  
-- **GCD Compression:** From diverse options, the unconscious compresses them into a minimal, common decision pathway.  
-- **Relational Feedback Loop:** Expansion and compression repeat continuously, shaping unconscious choices, intuition, and implicit cognition.
+## Introduction
+SAX Theory introduces a novel computational framework to model how the unconscious mind processes relational information.  
+It proposes that the mind continuously **expands** and **compresses** relational possibilities to make decisions, resolve paradoxes, and form intuition.  
+The core mechanism is the **LCM–GCD Cycle**, implemented in the **SAX Engine**.
 
 ---
 
-## 🔹 Key Contributions
-- **Psychology:** Offers a new way to understand unconscious decision-making & implicit cognition.  
-- **AI Research:** Provides inspiration for relational algorithms in machine learning and human–AI ethics.  
-- **Philosophy:** Introduces a computational lens to interpret paradoxes and human reasoning patterns.  
-- **Cognitive Science:** Bridges mathematical structures with mental processes.
+## Concept Note
+
+### Core Mechanism
+- **LCM (Expansion):** explores multiple relational possibilities, creating a network of potential outcomes.  
+- **GCD (Compression):** reduces possibilities into minimal common outcomes, producing efficient decision pathways.  
+- **SAX Engine:** the dynamic cycle of expansion and compression, shaping unconscious relational computation.
+
+### Novelty
+- Extends beyond existing theories (Adaptive Unconscious, Implicit Cognition, Unconscious Thought Theory).  
+- Introduces **mathematical analogy** (LCM + GCD) to describe relational computation.  
+- Bridges psychology, AI, and philosophy with a single computational framework.
+
+### Potential Fields of Application
+- **Psychology:** unconscious learning, decision-making, relational behavior modeling.  
+- **AI & Cognitive Science:** relational computation algorithms, ethical AI frameworks.  
+- **Philosophy:** modeling paradox resolution, human reasoning, and intuition.  
+- **Human–AI Ethics:** fair empathy exchange and relational responsibility.
 
 ---
 
-## 🔹 Glossary of Terms
-- **SAX Engine** → The computational cycle of unconscious processing.  
-- **LCM Expansion** → Generating possible relational harmonies.  
-- **GCD Compression** → Reducing relations into a minimal shared form.  
-- **Relational Computation** → Cognitive processing through structural comparison & resolution.  
+## Manifesto
+The unconscious mind is not random; it computes.  
+Through expansion and compression, it navigates paradox, emotion, and choice.  
+SAX Theory aims to:  
+- Provide psychology a **predictive model** of unconscious cognition.  
+- Offer AI research a **framework for relational ethics**.  
+- Give philosophy tools to **analyze and resolve paradoxes**.
+
+SAX is both **a map and a method**:  
+- **Map:** illustrates hidden relational structures of unconscious thought.  
+- **Method:** provides a computational approach to simulate and validate these processes in humans and AI.
 
 ---
 
-## 🔹 Applications
-- Modeling unconscious learning & intuition  
-- Resolving psychological and logical paradoxes  
-- Designing ethical AI relational frameworks  
-- Understanding decision-making under uncertainty  
+## Glossary
+- **SAX Theory:** Systematic Approximation through eXpansion & compression.  
+- **LCM Expansion:** branching of multiple possible relational links.  
+- **GCD Compression:** filtering to minimal shared meaning.  
+- **SAX Engine:** dynamic cycle of expansion + compression.  
+- **Relational Computation:** hidden mapping, comparison, and resolution of relationships between ideas, values, and emotions.
 
 ---
 
-## 🔹 Current Progress
-✅ Concept Note (2–3 pages)  
-✅ Literature Mapping (Adaptive Unconscious, Implicit Cognition, UTT, Relational Frame Theory)  
-🔄 Developing Formal Model Diagram  
-🔄 Preparing Empirical Validation Design  
-
----
-
-## 🔹 Author
+## Author
 **Khaled Imran (2025)**  
-Researcher | Writer | Independent Theorist  
+Independent Researcher | Developer of SAX Theory  
 
 ---
 
-## 🔹 Citation
-If you use or refer to SAX Theory, please cite the archived DOI (Zenodo):  
-👉 *[DOI will be generated after first release]*  
+## Contact / Citation
+- **GitHub Repository:** [https://github.com/YourUsername/SAX-Theory](https://github.com/YourUsername/SAX-Theory)  
+- **Zenodo DOI:** *(generated after first release)*  
+- Email / Profile: *(optional for direct contact)*  
 
 ---
 
-## 🔹 License
-This project is shared under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
-You are free to use, share, and adapt the work, **with proper credit**.
+## Future Releases
+1. Formal model specification & proof-of-concept examples.  
+2. Refined diagrams & pseudo-code.  
+3. Experimental validation (cognitive tests & AI simulations).  

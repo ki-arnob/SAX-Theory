@@ -61,7 +61,9 @@ Independent Researcher | Developer of SAX Theory
 - **Zenodo DOI:** *(generated after first release)*  
 - Email / Profile: *(optional for direct contact)*  
 
----
+---The SAX framework welcomes collaborative academic and non-profit research use.
+Any commercial use, product integration, or derivative work requires explicit written permission from the author.
+Scripts, simulations, and data can be shared for review and reproducibility.
 
 ## Future Releases
 1. Formal model specification & proof-of-concept examples.  
